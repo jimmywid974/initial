@@ -1,0 +1,159 @@
+Technical Interview Questions
+-----------------------------
+
+>>>>>>> Kenapa kamu tertarik /Apa alasan anda melamar di posisi ini
+
+- Ketika saya melihat di website indomaret career, Ada 2 posisi yang saya lihat, yaitu Software Developer dan Java Developer
+
+- Saya tertarik karena 2 posisi tersebut sesuai dengan kulaifikasi dan pengalaman saya, Kalau .... 
+
+- Dengan perusahaan sebesar indomaret, adalah sebuah privilege untuk saya berkontribusi dengan skill saya pada Indomaret Group 
+	dan menurut saya Indomaret adalah tempat yang tepat bagi saya untuk berkembang dan terus bertumbuh 
+
+===========================================================================
+
+>>>>>>> Tentang posisi ini/ Soft skill yang dibutuhkan
+
+- Software Developer bertugas untuk mendevelop software web yang mendukung proses operasi bisnis dari Indomaret Group dan sector bisnis E-commerce dari Indomaret Group yaitu Klik Indomaret
+- Java Developer bertugas untuk mendevelop software berbasis Java yang mendukung proses operasi bisnis dari Indomaret Group
+
+- Selain hard skill, soft skill yang dibutuhkan menurut saya adalah:
+- Adaptasi 		- Karena kita harus siap dengan perbedaan Bahasa yang digunakan di tiap company, atau juga bisa berbeda versi karena 
+			  update versi di tiap Bahasa akan ada selalu yang berubah. 
+
+- Problem Solving 	- karena pasti harus membedah flow program dan database yang sudah dibuat lalu menerjemahkan nya dalam bentuk program
+			- Dan pasti berurusan dengan bug dan crash, problem solving dibuthkan untuk melakukan debugging menganalisa dimana root 
+			  cause yang menyebabkan error tersebut
+
+- Teamwork, kolaborasi, dan komunikasi karena pasti bekerja Bersama divisi lain seperti: Analyst, QA, IT Support
+
+===========================================================================
+
+>>>>>>> Projek yang dikerjakan Waktu magang
+
+- Mendevelop aplikasi untuk mengintegrasikan marketplace yang dimiliki Hartono (Shopee, Tokopedia, dll) supaya dapat dikelola satu pintu yaitu lewat aplikasi tersebut. Kita menggunakan API yang sudah disediakan oleh marketplace2 tersebut
+
+- Semua proses yang terjadi di marketplace, mulai dari menerima pesanan, pengecekan stock, penjadwalan pengiriman dari Gudang terdekat dari tempat tujuan pengiriman, pembuatan sales order dan faktur, serta retur penjualan dapat dilakukan lewat aplikasi tersebut pada semua marketplace yang dimiliki Hartono.
+
+- Bagian Frontend dibuat dengan Bahasa PHP dengan framework Laravel dan bagian Backend dipanggil menggunakan API yang menggunakan Bahasa pemrograman C# dengan framework .NET Core. DBMS yang digunakan ada 2 yaitu Microsoft SQL Server dan PostgreSQL
+
+===========================================================================
+
+>>>>>>> Dimana kamu melihat diri kamu 5 tahun ke depan
+
+- Saya melihat diri saya masih di bidang IT, sudah memiliki karir yang cukup advance 
+
+- dan berada di company yang cocok untuk utilize skill dan career saya.
+
+- Saya melihat diri saya berada di posisi penting sebagai pengambil keputusan yang krusial
+
+===========================================================================
+
+>>>>>>> Metode Agile di Pengalaman sebelumnya
+
+- Di perusahaan saya sebelumnya, tidak pernah di declare bahwa metode yang dipakai adalah agile, atau scrum
+
+- Tetapi dari yang saya perhatikan kerangka yang dipakai mirip seperti agile
+
+- Plan and Design	--> BA
+---- Perencanaan pembuatan aplikasi, membuat flow program, desain database, dan juga UI UX dihandle oleh ...
+---- Dari hasil tersebut akan didiskusikan dengan developer
+
+- Develop, Test, Deploy	--> Developer
+---- Lalu masuk di proses mendevelop software, testing, dan sammpai deploy dilakukan oleh Developer
+
+- Review		--> Developer and BA
+---- Setelah itu aplikasi akan direview Bersama BA yang diposisikan sebagai user, dan Ketika sudah siap aplikasi akan dilaunch
+
+- Launch
+ 
+===========================================================================
+
+>>>>>>> Konsep Pemrograman
+
+- OOP			= Konsep pemrograman yang berfokus pada objek, objek yang memiliki atribute dan metode
+			  - Kelebihan: Maintainability - inheritance, 
+
+- Microservices  	= Aplikasi dibangun sebagai kumpulan service2 kecil yang independent sehingga berjalan secara terpisah.
+			  - Kelebihan: Scalability, Flexibility, dan maintainability
+
+- DevOps		= Development and Operation - Plan, Build, Test, Release, Deploy, Operate, Monitor
+
+- Data Structure	= 
+
+- Synchronous and Asynchronous	= - Ekseksui tugas yang dilakukan seacara beurutan
+				  - Ekseksui tugas yang dilakukan seacara bersamaaan dan dependen, tanpa harus menunggu satu sama lain
+				  
+				  - Async lebih cocok untuk proses yang lebih berat karena eksekusi dapat berjalan lebih cepat dan efisien 
+
+===========================================================================
+
+>>>>>>> Proses Unit testing
+
+- Menggunakan xUNit
+
+===========================================================================
+
+>>>>>>> Versi framework yang digunakan
+
+- Versi .NET 		= 3.1
+- Versi Laravel		= 5.3
+
+- Versi PostgreSQL	= 13
+
+- Versi Java		= 17
+- Spring Boot		= 3.1.2
+
+- Versi Python		= 3.12.1
+
+===========================================================================
+
+>>>>>>> Cara Kerja menggunakan Git/ Deployment sebuah project
+
+- Branch Production/ Main
+
+- Branch Testing
+
+- Tiap fitur yang dibuat akan menduplicate branch testing terlebih dahulu, lalu setelah selesai fitur dibuat akan di merge dengan branch testing (ini untuk menghindari conflict)
+
+===========================================================================
+
+>>>>>>> Apa yang paling penting dari sebuah software
+
+- Fungsionalitas 	= Apakah software berfungsi sesuai dengan kebutuhan dan problem yang ingin diselesaikan dari user		
+
+- Scalability 		= Kemampuan software dalam memproses workload dengan baik, Ketika user dan data yang diinput semakin banyak apakah 
+			  performa software masih berjalan dengan baik
+
+- Maintainability	= Seberapa baik dan efisien kita mendevelop software yang dapat dimaintain dengan mudah, missal Ketika ada penamabahan 
+			  fitur atau bug fixing. 	 
+
+- Kemananan		= Bagaimana software dapat menjaga data yang dikelola dengan aman
+
+============================================================================
+
+>>>>>>> Bagaimana cara mengachieve software tersebut
+
+- Kalau di front-end bisa menggunakan cache, untuk tidak memperberat kerja backend
+
+- Di back-end, bisa dengan menggunakan arsitektur microservices agar
+
+- Menggunakan Load Balancing supaya traffic dapat dibagi secara rata pada semua server 
+
+- Kalau semua itu sudah dilakukan, yang terakhir yang pasti upgrade kapasitas server
+
+============================================================================
+>>>>>>> Pengambilan Keputusan
+============================================================================
+>>>>>>> Manajemen Konflik
+============================================================================
+
+>>>>>>> Apa yang kamu pelajari dari software development di dunia profesional
+
+- Bahasa pemrograman dan framework baru
+
+- Workflow - Banyak yang harus didiskusikan dan meminta persetujuan terlebih dahulu dari atasan
+
+- Semuanya harus berjalan secara parallel ==> 
+
+- Banyak stakeholder yang terlibat (user dari divisi lain, board, customers, dll)
