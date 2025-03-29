@@ -1,0 +1,32 @@
+>>>>>>>>>>>> Tentang Indomaret Group
+
+- PT Indomarco Prismatama (Indomaret Group) adalah perusahaan franchised retail terbesar di Indonesia yang sudah memiiki > 20k retail store dengan lebih dari 200k karyawan, 
+	salah satu anak perusahaan Salim Group yang berdiri sejak tahun 1988 
+	 dan memiliki motto "Easy and Economical"
+- Indomaret juga memiliki beberapa anak perusahaan dalam berbagai sector bisnis yaitu 
+-----> Retail (Indomaret, OMI, Ceria Mart), 
+-----> Grocery (Indogrosir), 
+-----> IT Consultant (AGCI), 
+-----> Food and Baverages (Yummy Choice, Point Café), 
+-----> Shopping Plaza (BSD Plaza), 
+-----> Bakery (Mr Donut, Mr Bread, Prime Bread), 
+-----> Japanese Restaurant ( Washoku Sato), 
+-----> e-wallet (I-saku),
+-----> e-commerce (Klik Indomaret), 
+-----> ekspedisi (Indo Paket).
+-----------------------------------------------------------------------------
+>>>>>>>>>>>> Kenapa Kamu tertarik/ Apa alasan anda melamar disini
+
+- Karena kualifikasi dan pengalaman saya sebagai full-stack developer sesuai dengan yang dibutuhkan oleh posisi yang saya apply yaitu Software Developer (mulai dari Bahasa c#, framework .net, html, javascript, dan SQL server), sama seperti
+- Dengan perusahaan sebesar indomaret dengan semua sector bisnis nya, adalah sebuah privilege untuk saya berkontribusi dengan skill saya dan berkembang di perusahaan ini
+-----------------------------------------------------------------------------
+>>>>>>>>>>>> Tentang posisi ini
+
+- Software Developer bertugas untuk mendevelop software web yang mendukung proses operasi bisnis dari Indomaret Group dan sector bisnis E-commerce dari Indomaret Group yaitu Klik Indomaret
+- Java Developer bertugas untuk mendevelop software berbasi Java yang mendukung proses operasi bisnis dari Indomaret Group
+
+- Adaptasi 		- Karena kita harus siap dengan perbedaan Bahasa yang digunakan di tiap company, atau juga bisa berbeda versi karena update versi di tiap Bahasa akan ada selalu yang berubah. 
+- Problem Solving 	- karena pasti harus membedah flow program dan database yang sudah dibuat lalu menerjemahkan nya dalam bentuk program
+			- Dan pasti berurusan dengan bug dan crash, problem solving dibuthkan untuk melakukan debugging menganalisa dimana root 
+			  cause yang menyebabkan error tersebut
+- Teamwork, kolaborasi, dan komunikasi karena pasti bekerja Bersama divisi lain seperti: Analyst, QA, IT Support
