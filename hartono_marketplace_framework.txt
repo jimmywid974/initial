@@ -1,0 +1,50 @@
+>>>>>>>>> Project Marketplace
+
+Mendevelop aplikasi untuk mengintegrasikan marketplace yang dimiliki Hartono (Shopee, Tokopedia, dll) supaya dapat dikelola satu pintu yaitu lewat aplikasi tersebut. 
+
+Semua proses yang terjadi di marketplace, mulai dari menerima pesanan, pengecekan tock, penjadwalan pengiriman dari Gudang terdekat dari tempat tujuan pengiriman, pembuatan sales order dan faktur, serta retur penjualan dapat dilakukan lewat aplikasi tersebut pada semua marketplace yang dimiliki Hartono.
+
+Bagian Frontend dibuat dengan Bahasa PHP dengan framework Laravel dan bagian Backend dipanggil menggunakan API yang menggunakan Bahasa pemrograman C# dengan framework .NET Core. DBMS yang digunakan ada 2 yaitu Microsoft SQL Server dan PostgreSQL
+
+>>>>>>>>> OOP, DevOps
+
+OOP 		---> Konsep pemrograman yang berfokus pada penggunaan objek
+
+DevOps 		---> Development and Operation - Plan, Build, Test, Release, Deploy, Operate, Monitor 
+
+>>>>>>>>> Soft Skills
+
+
+ 
+>>>>>>>>>
+Versi .NET 		= 3.1
+Versi Laravel		= 5.3
+
+Versi SQL Server	= 
+Versi PostgreSQL	= 
+
+
+>>>>>>>>> Git
+
+- Branch Production/ Main
+
+- Branch Testing
+
+- Tiap fitur yang dibuat akan menduplicate branch testing terlebih dahulu, lalu setelah selesai fitur dibuat akan di merge dengan branch testing (ini untuk menghindari conflict)
+
+
+>>>>>>>>> AGILE
+
+- Plan and Design	--> BA
+
+- Develop and Test	--> Dev
+
+- Deploy 		--> Dev
+
+- Review		--> Dev and BA
+
+- Launch
+
+>>>>>>>>> Unit Test
+
+- NUnit / xUnit
