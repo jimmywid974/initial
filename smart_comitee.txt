@@ -1,0 +1,50 @@
+Rally Games BC
+Skripsi
+Intranet
+Web Utama Disatukan
+
+Backend services: GitHub
+Story board Bu Siana
+
+
+WGG 20
+
+- S dan M	: Mendevelop website rally games untuk dimainkan oleh +- 2000 mahasiswa baru dengan bahasa pemrograman PHP dan database MySQL
+- A dan R	: Berkolaborasi dengan Divisi Events dan divisi Creative untuk implementasi konsep dan tampilan dari website nya
+- T		: Menyelesaikan website dalam waktu 1 bulan sebelum acara rally games dimulai
+
+
+WGG 21
+- S		: Mendevelop aplikasi berbasis website untuk keperluan data dan absensi dari +- 2000 mahasiswa baru
+- M		: Berkolaborasi dengan departemen acara dan departemen sekretariat dan mengkoordinasikan 3 member dari sub-divisi data dan absensi untuk mendevelop aplikasi2 yang dibutuhkan tadi
+- A		: Memastikan semua koordinasi berjalan dengan lancar antar departmen dan anggota lewat satu pintu sehingga semua aplikasi dapat dibuat sesuai dengan deadline yang sudah ditentukan
+
+
+BEM 21-22
+
+- S		: Mendevelop seluruh aplikasi berbasis website yang diperlukan selama periode BEM 21-22 
+- M		: Berkolaborasi dengan departemen HRD, Art and Culture, dll dan mengkoordinasikan 6 member untuk mendevelop aplikasi2 yang dibutuhkan, antara lain: 
+- A		: Memastikan semua koordinasi berjalan dengan lancar antar departmen dan anggota lewat satu pintu sehingga semua aplikasi dapat dibuat sesuai dengan deadline yang sudah ditentukan
+
+------------------------------------------------------------------------
+
+Projects
+
+
+Castle Games
+- S		: Mengembangkan game bertema pertahanan kastil dengan pendekatan oop dan Bahasa pemrograman c++
+- M		: Terdapat komponen Utama yang harus diperhatikan: Sistem pertahanan, level, dan UI dari game tersebut
+- A		: Bekerja dalam tim dengan 4 orang dan projek dapat diselesaikan dengan tepat Waktu Catea 
+
+Web-based Cinema Application
+- Mendevelop aplikasi berbasis website untuk reservasi tiket bioskop hingga cara pembayaran nya menggunakan API dengan Bahasa pemrograman PHP dan database MySQL
+- APlikasi memiliki 5 fitur: pengelolaan jadwal film, pemesanan tiket dan pemilihan kursi, pembayaran, dan top-up saldo
+- Bekerja dalam tim dengan 4 orang dan projek dapat diselesaikan dengan tepat Waktu dan mendapat nilai A
+
+Catea - SOA Project
+-  Mengembangakn system backend untuk manajemen bisnis minuman dengan SOA menggunakan framework nameko dengan Bahasa permograman python dan database MySQL
+- Terdapat 5 fitur yaitu: menu, employee, ingredient, warehouse, dan delivery
+- Bekerja dalam tim dengan 4 orang dan projek dapat diselesaikan dengan tepat Waktu dan mendapat nilai A
+
+
+================================================================================================================================================
